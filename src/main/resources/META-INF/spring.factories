@@ -1,0 +1,4 @@
+com.liutao.util.springboot.security.annotation.EnableSecurity=\
+com.liutao.util.springboot.security.advice.EncryptRequestBodyAdvice,\
+com.liutao.util.springboot.security.advice.EncryptResponseBodyAdvice,\
+com.liutao.util.springboot.security.auto.SecurityProperties
